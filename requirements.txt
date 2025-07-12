@@ -1,0 +1,5 @@
+customtkinter
+openai-whisper
+ffmpeg-python
+torch
+torchaudio
