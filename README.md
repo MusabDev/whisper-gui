@@ -45,7 +45,7 @@ run.bat
 ```
 This will launch the Whisper Transcriber GUI.
 
-## 🧠 Model Info
+## Model Info
 Whisper models supported:
 - `tiny` (39 MB)
 - `base` (74 MB)
