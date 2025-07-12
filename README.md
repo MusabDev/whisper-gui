@@ -17,7 +17,7 @@ A sleek Python desktop application built with `customtkinter` that leverages Ope
 
 ## Installation
 
-Run the provided installation script **once** to set up Python, dependencies, and required programs:
+Download the project or clone it to your computer. Then, run the provided installation script **once** to set up Python, dependencies, and required programs:
 
 ### On macOS / Linux
 ```bash
